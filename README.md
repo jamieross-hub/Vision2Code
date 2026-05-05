@@ -3,7 +3,7 @@
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19&height=140&section=header&text=💰%20BudgetMate&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=APTECH%20Vision%202025&descAlignY=68&descSize=20" />
 
-<br/>
+<br/> 
 
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=29ABE2&center=true&vCenter=true&width=700&lines=Track+Income+%26+Expenses;Visualize+Your+Finances;Set+Goals.+Crush+Them.;Built+with+Bootstrap+%2B+Tailwind+%2B+ApexCharts" alt="Typing SVG" />
